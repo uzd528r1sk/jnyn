@@ -1,0 +1,1527 @@
+第六届中国（厦门）国际跨境电商展览会将凸显对接实效
+
+更新时间：{时间}
+
+栏目：AI Builders Digest　主题：第六届中国（厦门）国际跨境电商展览会将凸显对接实效
+
+摘要
+中新网厦门5月27日电 (林永传)27日在厦门举行的第六届中国(厦门)国际跨境电商展览会(简称“中跨展”)新闻通气会通报，第六届中跨展将于6月8日至10日在厦门国际会展中心举办。 据厦门市贸促会党组书记、会长，厦门国际商会会长邱尖介绍，第六届中跨展以 “跨境互联 货通全球” 为主题，展览面积超过5万平方米，设置1500余个国际标准展位，全国30多个优质产业带、近千家源头工厂，30多家全球主流跨境电商平台和上百家生态服务商将同台亮相。 邱
+
+正文
+中新网厦门5月27日电 (林永传)27日在厦门举行的第六届中国(厦门)国际跨境电商展览会(简称“中跨展”)新闻通气会通报，第六届中跨展将于6月8日至10日在厦门国际会展中心举办。
+
+据厦门市贸促会党组书记、会长，厦门国际商会会长邱尖介绍，第六届中跨展以 “跨境互联 货通全球” 为主题，展览面积超过5万平方米，设置1500余个国际标准展位，全国30多个优质产业带、近千家源头工厂，30多家全球主流跨境电商平台和上百家生态服务商将同台亮相。
+
+邱尖说，本届展会持续夯实 “跨境电商+产业带” 核心发展模式，搭建 “一展览全国好品、一站通全球订单” 的高效对接平台。
+
+展会期间将举办20余场高品质配套活动，聚焦AI智能体、GEO生成引擎优化、RPA自动化等前沿应用，特别关注OPC一人公司如何利用AI实现轻量化全球运营。
+
+展会组委会充分发挥贸促系统海外联络渠道进行客商邀约，持续凸显对接实效。
+
+目前，来自新加坡、泰国、马来西亚、印度尼西亚、菲律宾、韩国、巴西、墨西哥、德国、塞尔维亚、摩尔多瓦、巴基斯坦、赞比亚等国20余家驻华外交机构和境外经贸机构等已确认携采购商来厦对接。
+
+中国(厦门)国际跨境电商展览会，简称“中跨展”，是经中国贸促会批准，国际展览业协会UFI认证的全国性跨境电商专业展会。
+
+前五届累计参展企业超3000家，展览总面积超25万平方米，专业客商超30万人次，意向成交额超百亿元人民币，先后促成了谷歌全球首个跨境电商加速中心、亚马逊全球开店产业带加速器项目、速卖通福建商家运营中心、新蛋厦门运营中心等项目落地。
+
+(完)
+
+黑芝麻智能 A1000 芯片商用，大算力、低功耗，高阶自动驾驶适配。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d98a670686cde9d6e61f2c0ad3b30b07e27fc8f9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+华润微功率半导体产能扩张，IGBT/MOSFET 放量，新能源汽车拉动需求。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/5767f3ad0ef48b138484c35bb16c9aa7b0fc181e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+柔性电池技术突破，可穿戴设备续航能力实现翻倍提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/31b4d706f356e79cd3c04aa483a021bd83071602?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+华为云 ModelArts + 盘古大模型，AI 开发全流程，政企采购放量。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ad8761677c6095b9d7a2230dd5f8abe5737e4dd0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美股三大指数收跌，标普 500 三连跌，科技股多数走弱，苹果逆势微涨。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b74945b6fe9287978dba83b3969f3b14c54efbef?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+展锐春藤 V510 基带迭代，5G/4G 兼容，低功耗，物联网设备放量。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/1b2d60dbb22ab5f1ddf5f2a5b276e317aaf4ea1c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+消费电子淡季新品迭代，折叠屏、AI 手机成厂商发力重点。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/aa6cba399b00d1c07194022d238a28ab218ca86e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+三星 Exynos 2500 芯片量产，3nm 工艺、AI 能力升级，旗舰手机适配。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/bbd19f051ce17e0d5e4e4c4cd1634ad51a5c98d5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+快手 AI 直播、短视频工具升级，降低创作门槛，用户活跃度提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a40de8594f7555af17aebf67bf5433e6171771a9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储芯片价格触底反弹，DRAM、NAND 涨价周期开启，厂商盈利改善。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b6e9aded2daf8210db2b67a5f078dc704ee3e7a2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+小鹏 XNGP 自动驾驶升级，全场景 AI 辅助，城市 NOA 渗透率提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9287a7046c17cbe55351352fc34c7dc9cadb1b05?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+航空客运票价回归合理区间，民航出行客流稳步恢复常态。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2fe58f27ffe2f6e89fed557fb01fe2be74dd0032?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+联影医疗 AI 影像平台升级，多模态数据融合，诊断效率提升 50%。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/80f8499d9d113101f6c12f22b7d7ad670c09493e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+家用空气净化设备迭代，高效去除异味病菌优化居家空气。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/e5a720f50ccb4fcedf83cc25fd5bd8f96ac2a3ae?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美债收益率攀升，30 年期突破 5.19%，创近二十年高位，市场加息预期增强。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/e34963a5a8502164515de5048562f84d3d4d9a07?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+股份制银行 AI 信贷审批，小微企业贷款提速，不良率下降。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/96bb0f26bb908110363de1c87629980f87c67af5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+阿里灵杰大模型平台升级，企业级 AI 开发、部署全流程打通，客户增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b4527415b917237197d422f20074e102d8e9ab7c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+短视频 AI 降噪防抖优化，随手拍摄视频画质堪比专业拍摄。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/948c950b0be832c0255bcd4528672f2da21eb02b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+海南出台 AI 扶持政策，支持 “一人公司” OPC 创新发展。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/978c858fed87ef1eeebd64cb1a4b898a8b9e0849?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产大模型周调用量达 7.94 万亿 Token，为美国 2.11 倍，产业落地加速。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/e734d072e20b57f3e89a0c2723c0e5697c80e38e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+水质智能监测仪普及，城乡饮用水安全实时在线监管。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c3b1071378a09cdbf353c6aa5fa1ddb578dd7a92?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+户外用品销量大涨，露营徒步相关消费市场持续火爆。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a26dca939b123731f56f4bfe5ddef30c54fa3044?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+城际智能交通调度升级，城市之间客运班车排班更加合理。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/5a6a7c0732aca8f1fef80a51e3dbc0f6041502ce?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国资委推动央企 AI 转型，数字化、智能化改造，提升核心竞争力。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/26abc04ccad41da8027f2273b026aa74d43a70c0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+工业机器人出口大增，一季度同比增 35%，海外市场拓展提速。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9cf4ad28b3a1ba226a6e2b4149e00fe97efdcf41?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+戴尔 AI 服务器新品发布，液冷散热、高密度算力，数据中心采购增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2fe1eaa83699c64db918c7dff022b774dd4b9322?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国内新能源装机占比超 50%，风光储协同，能源结构转型加速。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c427ed8067056ca95421d8cf7901050a4a4f64ad?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+平台经济就业吸纳能力增强，灵活就业、AI 新职业涌现。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/443b7bd676d1bd105567e480eb6acd329c041dae?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+4 月全国工业企业利润同比增 8.5%，盈利结构持续改善。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4a7f70cae553f297c01604c93b995a9a4e6f0fe5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+武汉 AI + 光电子融合，光电芯片、AI 算法、智能制造协同发展。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/af3604138959ed102d5ebcc6abc3679a5dbd7182?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+折叠屏供应链成熟，UTG 玻璃、铰链国产化，成本下降、良率提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4284c5ffdf6c264e0766cb180411237d02969625?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+财付通跨境支付 AI 风控强化，反欺诈能力提升，交易规模扩大。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/45b561e9a7e7eeef1bb692776ec2f14a07f70d68?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+瑞萨电子车载 MCU 迭代，高可靠、高安全，汽车电子核心。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/752d0446d40a1214b900f11c4d1342cdff47cebe?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心绿色化转型，液冷、光伏、储能配套，PUE 值下降。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0e2d5b36816676ae039eaeea8b2bf11ea724574b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+车规级芯片短缺缓解，但高端 MCU、功率半导体仍供不应求。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/5a0c20cce39d838ad92036d7c3a85c995c518ded?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+花卉苗木电商销量暴涨，居家园艺消费需求持续释放。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/dca0ae61e7ca435323bd21ec6ddab0bffca2b0a3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+外币理财热度降温，国内稳健型理财产品更受大众青睐。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/8c2ddc7424a59715f93daf7f1538b950e861c8e1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国内智能手机市场复苏，国产品牌高端化、AI 化，份额集中。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/46803be6f08e8fa3a63968cf8f265d8dc980bbf6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+风电整机价格企稳回升，海上风电高景气，龙头订单饱满。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d0918d7fd6d4f3b83f692ae636ac1bc1ae1b8163?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+储能装机量快速扩张，一季度新增同比增 80%，锂电储能主导。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c4a8d005eb8b52db827bd4e0774abd51124bc588?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+财政部预拨 1.2 亿元救灾资金，支持南方五省强降雨抢险救灾。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0328f4b6ec5b29e9e9685c132418be4dd5466273?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国有大行 AI 财富管理升级，高净值客户服务，资产规模扩大。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/32c3e7b60606d9d69d872b41762fe1f9446bfa3a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据安全法实施细则落地，企业数据合规投入同比增 50%。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/68264508cc65123afe3cc0848f300275d3244b06?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+应急管理部推广 AI 防灾减灾，预警、救援、科普智能化。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/39d61c60af2d2d42e02e1daffa57ba3d57b62c1b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+中创新航圆柱电池量产，适配新能源汽车、储能，订单增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/cf249c3c251aa2655bb7e3d7aa4274959039f2d7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+农业农村部推进 AI 农业，智慧种植、养殖、农机、农产品溯源。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/7e6687145374bd478cb40ea5e2f7146e7b3818e0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+海外光伏需求高景气，欧洲、中东、拉美装机增长，出口拉动。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4a5f0f3c90f20fa01eda3bd9ba4ed7c7aa1bc38b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+《稳岗扩容提质行动方案》发布，多举措稳就业、扩岗位、提质量。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/5b1ccbc0be965b485d0ed9c6b96ef01a86656922?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+医疗便携式检测仪普及，居家快速完成多项基础体检。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/f2f68741544a12202586178befec458c863d6ef0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+抖音 AI 内容生成普及，短视频文案、剪辑、特效 AI 化，创作者增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/029c6d748443390e407e0e25cf7eb9b38331aa75?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+工业包装材料价格下调，实体企业产品包装成本降低。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/1e829908535b90a8ddec6003ecc75c1299f5ca7d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+民宿行业入住率走高，短途周边游带动民宿行业盈利。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/87598f27ecc5767278e322b76612036e2a8bfc41?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+阿里云一季度营收增长，AI 算力、云计算双驱动，毛利率提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4efe68c0bdf5394ceea348e8bdddac3170df5bd5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+浪潮云政企市场发力，AI 服务器 + 云计算，信创领域订单增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/910f508290bd9228e053dca28fffd21ac16c1d5e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+城市智慧停车系统联网，全城空余车位一键快速查找。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/99ce63b13909351cbe79bec495931929f33c5bc8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+汽修智能检测仪器普及，快速排查车辆故障精准定位问题。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b5ff93ccfcc06b0ecc5b0ada5799de20bcff65c4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+比亚迪储能系统商用，刀片电池 + 液冷，大型储能电站批量交付。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/60fe805bdc6dd0e236d3814a6285f4915431b492?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+Meta Quest 3 热销，AI 内容生成、性价比高，消费级 VR 份额第一。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c9d43f2c6ce0baa95914e5325d87eee9f7e2da89?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+宁德时代海外储能基地落地，德国、美国、匈牙利，配套新能源项目。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/deedac878c0ec8a66c1b4e687c1ab5de3a10fe1b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+阳光电源储能逆变器市占率全球第一，光储协同，订单增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0fce47b5f580d5bb7c075400e2705d45ecb3b6ea?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+联想 AI 工作站升级，高性能、高稳定，科研、创意设计场景放量。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/6a6507f3c3b860b43a85a7292a5cde07174b7947?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+中欧 AI 对话机制建立，技术标准、安全治理、伦理规范交流。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4bd7444366bfdf91b00d4f95c47dbcec38d49c26?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智慧农业水肥一体化系统普及，农田种植产能稳步提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2d75705bed01926e50fde4c8148b9de09092af13?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+派能科技户用储能市占率国内第一，海外市场拓展加速。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/5e093aa87a3005a75d34c6213112183cf4a113e9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+基金持仓 AI 分析，重仓股、行业配置、风格漂移，透明度提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/169568a27e8fb84138b07142eb2bc541b7aba75f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+绿色金融政策支持，AI 评估 ESG，绿色信贷、债券规模增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/84b2bb1940dfa738ad702153979eb32c2eb57df2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+旷视天元大模型迭代，机器人视觉识别精度达 99.9%，工业落地提速。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a2e7995b2f7b6b4c2c220e42379c56ecddd142bb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+工业防火墙升级换代，筑牢企业工业互联网数据安全。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4485928ec587229350b250fcddd70949735ff537?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+华为智能眼镜 2 迭代，鸿蒙 AI、语音助手、健康监测，轻量化设计。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/7103ea7a66074f9136965927c021d2c7e5b6542a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+储蓄国债热销，稳健理财品类深受中老年投资者青睐。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/35f74ba9c51aa7bf8d7226ad7f1dd3928062aae0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智慧社区系统全面升级，物业安防便民服务实现一体化管控。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/26597d6119e1a641e7275a80b850b41c87850c0f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+蔚来 NOP + 迭代，自动驾驶 + 换电协同，用户体验优化。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d4ef69c3f46f6aee8bd3065aa67bb12e6727174f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+饿了么 AI 配送、智能客服，降本增效，市场份额稳定。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/e3939bfb29dc0c5e3161facbb16cead1669ff468?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+隆基绿能 HJT 电池量产，效率 26.5%，成本下降，组件出货增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/60f3b623782e0e89ea62f49e4fd3abe50643d4b5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+中小企业 AI 普及行动，低成本工具、云服务、培训，降本增效。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/3aaaefc9519bf5812e851b1c572fab91324213b5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+深圳打造全球 AI 高地，政策支持、资金投入、人才集聚，创新活跃。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/eff112069e04c20bb80058edf9be3ad80c6a7f80?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+5 月 20 日国债期货小幅收涨，资金面宽松支撑债市震荡走强。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/7275a206f81804f513c217754e971b9bdffb6a81?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+工业耗材需求上涨，制造业复产带动辅料采购增量。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/8a02495e2cf1cab4fe554cd9599c4e36de0a72ab?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+山区特色农产品出山提速，电商带货助力农户增收致富。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/757ec9d869c8d1110edbb58e5f0cbd64315b0a0c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+伦敦金属交易所下调铅锌单日涨跌幅限制至 12%，稳定市场波动。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4abdbc9d1f56b9dcd7e9c643728f33657e9315ea?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+电动垂直起降飞行器研发提速，AI 自动驾驶，城市空中交通落地。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/8a20c2f23c0e6099beb4ff9f0c0349f2acfa26b1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+多地下调商铺经营税费，助力实体门店复苏，街边客流逐步回暖。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/68842344b9ad25d3c628f9fc2793d4a77841814c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+新能源汽车换电模式加速，宁德时代、比亚迪、蔚来多路线布局。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/1066587e8f0fa38aff52cebd1c96bddcfce59d83?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+有色金属整体偏弱，工业金属需求端恢复节奏偏缓。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/87908b02a8056ed19f7cb7312cb33ed38345bcbf?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+银行推出创业低息贷款，全力扶持中小微创业主体发展。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/65c433cef926ba77df4bcbfc35a864d6da047632?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+工信部深化 AI + 制造专项，支持智能网联汽车、人形机器人等领域。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/6134df6b61b39706e70cae86f795ec49c1f2037f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+开源生态繁荣，AI 大模型、工具链开源，开发者协作创新加速。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/242737c38dab7825e1083d3f175269d3a85b4b90?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+蔚来换电站数量超 2000 座，全球最大换电网络，用户体验优化。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/afd274a4737e965b61545733ceea25d7828ecfa7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+母婴线下实体店转型体验业态，扭转线下经营低迷局面。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/dd3041a096758e4b1a94923e993d156e7858a1de?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AMD MI300X 芯片商用，对标 H100，性价比优势显著，云厂商采购增加。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a78896428ca6946193d5e8145bdfc7b11cdcde0e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国内区域 AI 产业集群形成，长三角、珠三角、京津冀、成渝领跑。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/75247d0ad37b416c80dbe95db3945d7942afdd2e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+腾讯游戏出海收入占比提升，AI 本地化适配，全球市场增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/635c7fcf6046c1ca8fa59c3590c1985f83244657?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能健身镜功能升级，居家专业健身课程实时同步教学。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/56172ba54693b39a6f26c4927cb7bf025e87616b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+长鑫科技更新科创板招股书，一季度净利增 1688%，拟募资近 300 亿元。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a489f2426c472851d2368b2702c0817f075965dc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+小米小爱大模型升级，端侧推理能力增强，智能家居全场景打通。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ccedcb185bf6f1890c582311e078a78dfbd0aa72?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产折叠平板正式面世，大屏便携兼顾，办公娱乐体验升级。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/fba4e320604b190d79b5daffe7e97c39a9a04eac?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+二氧化碳捕集利用技术成熟，AI 优化，碳中和目标推进。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/1d1e2ca42c7e4f2eb234a3f0efbe222dd396ddfd?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+商务部推进县域商业体系建设，农村物流、电商、供应链完善。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/3efdf0ebd45e982dd0423d12283d4852a9d848f2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+德业股份储能逆变器 + 电池协同，户用储能一体化解决方案落地。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/79e7cf5338a71d92654e5cf7ed70f481a4a8f6ab?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+小米澎湃 S2 芯片流片成功，手机 SoC 自主可控，性能达主流水平。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4f17d7fe89644fe644e7e1f9e4a2c6f56f0e341f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+央行公布首批支付牌照续展结果，支付宝、财付通获长期有效牌照。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ddc8e4d62f95fba9d67fb3c547d60539a1398df1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+超薄屏下摄像技术成熟，全面屏手机视觉效果再度升级。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/de77c6cb46542efa2f054645a07c1727bf7dd3d6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+东方电子支付等 3 家中止审查，开联通支付不予受理，面临注销。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ae5f90817c682a7533c1c358ac582636f0b82b91?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+户用储能海外高景气，欧洲能源危机后渗透率提升，出口增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b04c49ed253c75f55e90ae9ffca730ad0be26445?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+A 股上市公司理财规模同比降 50%，资金回流主业趋势明显。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/20c81cccd08e7598307fd1c34d14b4b200905a12?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI 音乐创作工具迭代，快速生成适配各类场景原创曲目。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/aa644f432d4d167986eeb6f324169e8c9f121d73?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国内成品油价格小幅调整，出行及物流行业成本迎来小幅变动。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d602a8265879e37f0a7b3db2227cc6f63ff3d118?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+直播实时 AI 字幕生成，无障碍观看各类直播视听内容。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/124a1bdf5fa7dc4609c0d18174bb2387ef8ee845?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+互联网大厂 AI 转型加速，搜索、电商、短视频全链路 AI 赋能。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/afaf6145aa1202c1e98d9d260bbac3b1f620abb8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+央行数字人民币钱包升级，AI 风控、智能转账，用户体验优化。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/7c08372aac6dc9c98a848ec3746186b86f084534?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+三星发布 Galaxy AI 2.0，实时翻译、图像编辑、智能助手全面升级。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/7119cf326fe21a1296d5c400a082ab886f8f570c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+明阳智能海上风电整机市占率国内第一，海外市场拓展加速。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/585b574e105f713ebe0ec5ffa22373cc8ca935d0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高校 AI 专业扩招，产学研融合，人才培养加速，缓解缺口。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ad5d5511e6c3348fb164350a567a0b65fa388be0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+恒星 AI 发布影视级 Agent，文字生成高清短漫剧，1 小时完成单集制作。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/7aa09ba83222c839c5a156f104b95353eaf95f3c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+校园智慧安防全覆盖，AI 识别快速排查校园安全隐患。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2355440712928208aa90cb576937d23ac062bbd7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+消费电子 / 手机 / 汽车电子（221–280）
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/098dbaeab7b7a8084ebde830528e42e88507eec3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+百公里空芯光纤刷新量子通信容量纪录，传输效率提升、成本下降。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/90707bb11ab37c399a9a7f8b6d2765d53d9a7322?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+金融科技出海加速，AI 支付、风控、信贷，东南亚、拉美市场拓展。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4657e2f029d401ef57f6917de3103e12286c95f2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+征信行业 AI 升级，信用评分、反欺诈、风控模型，精准度提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a66d47ecba6b657feb40c3ae9e9662fbe3e86343?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+前沿科技融合创新，AI + 量子 + 生物 + 航天，跨领域突破，产业变革加速。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ee5e4c3167448bb45c13c9e44b261c213b46d786?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+灵心巧手机器人拟香港上市，万凯新材持股 4.58%。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/fd7a03d4cf2f61c78e2a6bde576dd20be0bbe0b3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+电竞外设智能联动，全套设备一键同步设置适配游戏场景。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/40dce9e2cf41742aed72e08773a13e3797ac0e84?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+无线投屏技术升级，多设备无缝互联投屏流畅无卡顿。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0e90b8c178c2e8222840818d5448afe4b8c721ba?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+光伏硅片价格企稳，N 型组件出货占比超 60%，降本增效明显。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/bd9d54788467b3981cb92663b9ffa13fe9299b7f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+盛弘股份充电桩模块迭代，效率提升、成本下降，车企配套增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/f514ed99f52fdc2e61d7c00671c21d9496f69367?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+谷歌 I/O 2026 发布 Gemini 3.5，AI 智能体全面嵌入搜索、Chrome 等产品。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/39c9d2b635e14a052d62d822bfb5750d9648d81c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+权益类基金发行回暖，投资者风险偏好逐步抬升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/3b24315f96762bfdb935ef9c8d7fae2f6f2074de?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+银行加大普惠小微投放，一季度普惠贷款余额同比增 23%。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/17e5fefafc1d65185c457f28b45862f5ba7da665?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+纳斯达克中国金龙指数小幅收涨，万物新生涨超 11%，中概股分化明显。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/55f7f2054e19c603d13734a7e6cd2a198f8cf61d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+央行数字货币研究所 AI 技术落地，交易风控、隐私保护强化。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0440b4482d7872d307af9709cdee893b56f5b2ec?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+互联网金融合规发展，AI 风控、智能投顾、普惠金融，服务小微企业。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/52e8f3ba67fe015ffdc2c8f39ec9880c93918821?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+财富管理 AI 个性化，风险偏好、生命周期、目标收益，定制方案。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/fae55f63a9b020f81288746ad3dbecc97345df82?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+虚拟数字人商业化加速，AI 驱动、实时交互，直播、客服、营销应用。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/fcc72a5ef3fc344ac07a2cf03489a1115e9f24c9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+小米 15 系列发布，澎湃芯片、AI 大模型、影像升级，性价比突出。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/523edd07b402a51e39afde99a96916da049b277f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+华夏基金 AI 投顾服务上线，智能资产配置，适配不同风险偏好。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/17f9fff21d51ed3ecd81300de5d688ddb6f8a57a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+本源量子悟源二号量子计算机升级，算力提升、错误率下降。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/491734a45d2efa970ada492764c6b422aa77104f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+生猪价格小幅回升，养殖企业亏损收窄，养殖端补栏意愿增强。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/871f0de720cc754068ade2948c736046748b4bf2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+新能源技术多元突破，氢能、核能、地热能、潮汐能，能源结构优化。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ed54a811e0ab886381172d0fa8ece0081ba47284?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+百度智能云文心一言赋能，政企 AI 解决方案，订单增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/683b31e9751bc19a51d06e5dc66497964c092326?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+欧盟拟加征部分中国电动车关税，商务部回应将坚决维护企业权益。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d5ef18b6042d99d2675c8f11263f1a0684a7d658?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+比亚迪海外建厂提速，泰国、巴西、欧洲布局，本地化生产降成本。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c859b3a529c6a140dbed6fedfc9638f5f960c0da?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能仓储机器人普及，电商仓库分拣效率大幅提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/6e04d6786be9c41f0e9ff3c32b9c17a0eb684467?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+氢能产业政策密集出台，燃料电池、电解水制氢技术突破。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/832595ec924dbd4c59147b1a5aeb113333bd5110?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国际白银价格走强，突破 79 美元 / 盎司，工业与避险需求共振。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/8414d91045e8087bcdc5ab23ae0ead7fb5e40780?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+沐曦 MX1 芯片流片成功，对标 H100，国产高端 AI 芯片突破。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/26436a8207419046b6f8cc3ab3c2fc003ffb40b1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+港股科技股反弹，腾讯、阿里、美团领涨，AI 转型预期升温。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/51b2cf5702573a2c52b0ac72d7c563c5bcd05470?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国内云计算市场高景气，AI 算力需求爆发，IaaS/PaaS 增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/8d14ec3420e3b7683b95892d914a2ed6ef2d7774?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+字节火山方舟平台商用，大模型训练、推理一体化，成本降低 30%。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/603b0842a24d901285fbb1d7b349d198ab9c078c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+谷歌联合三星发布 AI 眼镜，Gemini 智能体、实时翻译，Gentle Monster 设计。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/53f054f1b2d502f414b62404236b2e815beed67c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+北方华创沉积设备迭代，国产替代加速，先进制程设备放量。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/852cbe4c8a78cc8eca105d6313ef9a6db8abaa6a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+工信部启动 “AI + 制造” 专项，下半年落地 30 个国家级示范项目。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/bc3c77b8d1ebf6af1ee4126ea793a736e8773f37?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国能日新虚拟电厂平台落地，聚合分布式资源，电网调度参与度提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9a8419911720b1b2bc417dd33ddf1624aeee439c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+互联网行业人才结构调整，AI、算法、大模型人才需求激增。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/253e0d282119f07ab1c0cb71b094917d8ac63cf1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+工业视觉检测设备量产，替代人工完成高精度产品质检。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4476615da9ddf1008e23d600928a2c4ad36c7427?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+天融信 AI 安全运营平台升级，自动化处置能力增强，运营成本下降。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/7411bc414f2d2b7ea8205d45cf4a25291b54b1ac?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+VR/AR 设备出货量增长，苹果 Vision Pro、Meta Quest 3 领跑，AI 内容生成赋能
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/e47fb11cde254cd1b7334342d63c7eb880c40c66?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+普惠金融 AI 赋能，小微企业、三农融资便捷，覆盖面扩大。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/364552cb9e50863ca45e1f6cb69093631cc6e735?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+特种机器人应用拓展，消防、安防、勘探、救灾，危险场景替代人力。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/fdce1d4ffa3e67980d49a5f8e20769aa983edd02?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+用友 YonSuite AI 版发布，财务、人力、供应链智能决策，企业降本增效。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/99e1713fa1cf06c92407cf110120767c6709f9d9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+TWS 耳机出货量稳定，AI 降噪、空间音频升级，高端市场增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c70636e91f574dc22a9223e57544ecb35b62d84f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+车载智能香氛系统量产，自动调节车内气味营造舒适出行环境。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/6c45f9b9e1f39311cf9f5ff7d854dd5d40eff751?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+金山云 AI + 游戏云协同，算力租赁、云游戏，营收改善。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d04bbaaa6595c6a1482ee4cd290bf920bef6b349?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+保险资金加大权益配置，二季度重点布局高股息与成长板块。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ce3bdcc48382e4eafa65507146e53deb97e095fe?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能垃圾分类设备投放，社区垃圾分类推行更加顺畅。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/6081343db3032c82f5f57703d2459107eabd1bb2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+内陆口岸贸易提速，内陆外贸城市进出口总额稳步增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/667839e3816753cdab2a41fdcb2072818c1196f8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+消费金融公司 AI 风控，线上审批、秒级放款，普惠金融覆盖扩大。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/08965291aa84f0eb4eaa8e2183e782340513b5ac?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+社区团购优化供应链，生鲜菜品品质与性价比同步提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/3e55c19072cdd6633ba5132d8eb7545430e16326?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+地平线征程 6 芯片发布，自动驾驶感知能力提升，成本下降 20%。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/24d31a0ecc6eda49b279ea4ae7793aed5097a68c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+医用便携理疗仪器普及，居家即可完成基础康复理疗护理。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9d65767e4e3f2c7298fb236e8cdd91671ceb3a8d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数字人民币试点扩大，线上线下场景融合，支付便捷性提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a0c3ff976abbcd1ec33046bfc0b3d7bcc934f9b9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+加密货币 AI 量化交易活跃，波动率下降，机构资金入场增加。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/6fbc6c3982758068203abc0a9569683abc076821?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+字节跳动虚拟人直播工具普及，低成本、高互动，中小商家使用增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/f50cd92b3e0ce1e6f64df116098eb3a571394b42?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+少儿素质教育稳步复苏，艺术体能类培训报名人数增多。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/e990451688ce319223f79ddb845c8b5bb6550559?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+可控核聚变研究突破，EAST 装置长脉冲高约束模式运行创纪录。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a841fbdc1b81bb4d7a9311098fb8d4c25fa7d095?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+OPPO Find N3 折叠屏热销，小折叠 + AI，女性用户群体扩大。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0320da13918de54584d7034216f3040d9bf8b5a8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+上海目标 2025 年末 10 万台人形机器人进工厂，智能制造提速。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ec60d868dd2ae03586e826444880dfb15ddac225?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+港口吞吐量稳步攀升，内外贸货物流通效率持续提高。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/04078f5c5c0317729ecd2f58066704013cc2e454?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+开源虚拟数字人框架上线，低成本打造专属虚拟形象。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/524bb78e371480f7d77b07c07dd5eaeb33ea4986?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能电网改造提速，虚拟电厂接入规模超 5000 万千瓦。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c8f3db92d57a97cf9b9320d4236de69aab6eef37?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+华阳集团车载显示屏 + AI 座舱协同，订单增长，毛利率提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/5fc7f16c2fe5cc50b440605ab2e82d1a9fe6d9c7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+跨境智能翻译终端升级，多语种实时互译适配出行商务场景。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ae49ea4a2944ddde0eec737bc3452d8a23879817?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+碳酸锂价格震荡调整，新能源上游原材料价格趋于平稳。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/6e5565e96c1cbb44437321a417b8575f9d68f47c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+极地智能科考设备升级，极端环境下科研探测更加稳定可靠。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/efffb72fe04d0baf99232c4c9a34277c33b30c5e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+城市智能灭蚊系统布局，公共场所智能消杀蚊虫优化环境。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c1f6ec4ccad816b516492a47a0afcac8ac8c8bcb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+外汇市场 AI 交易，汇率预测、套利策略、风险对冲，机构应用增加。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2890c557d12335b96767708ff45735449cbf9075?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+3D 打印产业化加速，金属、陶瓷、生物材料，航空医疗汽车应用。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/f5660ca6f89132ddd712e55461bec45a08d0edb0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+云迹科技获全球首个千台级亲子场景智能体订单，商业化加速。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c834aca2346bd2df0b4de3d92f1b769be2b7e0cf?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+户外露营装备销量持续走高，户外休闲消费市场持续升温。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2c0af44ab1555053f585c61966067da177b1fc02?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+东方电气风电整机迭代，海上 + 陆上双驱动，国企订单增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/63d8d0603e36ff5c9e915f197895fdb0e20bf07a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+中科创达车载操作系统 + AI 大模型，高通 / 英伟达适配，车企订单增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/af47f95743b6aa977da0299aa360a55dbc0a60f4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能车窗防雾技术量产，出行驾车视野安全得到保障。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c5fd7a0d7274f660bb6f9addbae4f9d9a11a12b5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+券商研报 AI 生成普及，数据整合、观点提炼，发布效率提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ed5e008ef6cbad3d62ddefcd89f08ab09a2f98c1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+电池片、组件价格回升，N 型组件溢价明显，厂商毛利率修复。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/fc63a1b553e310357640ffe0c7d9e215e85fa7e1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美股科技股分化，英伟达四连阳创新高，美联储加息预期压制成长股。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4b46dbb41f10d9f7ae74489a1d7d3c4e55834c46?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国内风电大基地项目加速落地，风光互补，新能源装机占比提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/aad594cb201a7538c84930eb94c0256aa474c57d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+联通智网 5G 模组芯片适配，工业互联网、车联网渗透率提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/624f2f77bee827cb3c3e2a73957a7dab526e4b58?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+网易数帆 AI 平台发布，数据治理 + AI 建模融合，企业数字化提速。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/3cb18653a62a11dded87223ceb60a553a9bd07de?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+中芯国际 N+2 工艺突破，国产 AI 芯片代工能力增强，自主可控提速。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b7d30265d7f62dbf92d00b2dedf1e97c194903ef?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产 28nm 光刻机实现量产交付，成熟制程自主可控突破。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/554fe3ffdbd894400f254495cbb5fde0978b5e3a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+云端算力共享平台上线，中小企业低成本租用高端算力。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/43dfc68acfb70d1bda3332af53d59786055d9c73?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+快充电池技术迭代，主流手机二十分钟即可满电续航。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/493c0c4fc9a84ce978a1cd66503f0b023fcb6a69?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+中国人寿 AI 风控升级，欺诈识别能力增强，赔付率优化。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/3b50a1b1e66ab21b57cd9a8b29a1588c564854d3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+支付宝跨境 AI 支付拓展，东南亚、欧洲市场，中小商家接入增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/5b49dbdab3c377c7b87367e4688f8d16498c722a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+写字楼空置率逐步下降，中小企业办公租赁需求回升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/79d60313ad710137e12acf7b3f38c815b1f553c1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+合成生物学突破，AI 设计基因、细胞、酶，医药、化工、农业变革。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/608478421932bc2aa5674d68365a370ab0dc90af?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+家用智能扫地机器人升级，全屋自动清扫避障能力更强。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/306289bc260672d30aa7460a871f933dac73e94d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+龙芯 AI 加速模块发布，适配国产 CPU，构建自主 AI 算力生态。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b0f2280584302324ab00558a1cbec2db5466acf0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能鱼饵监测设备问世，实时监测鱼情提升休闲垂钓体验。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/61eebedf3f76e3578c45733f377d217f1f3ee566?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+锦浪科技组串式逆变器市占率全球第二，海外市场拓展加速。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/72f65b7c0b9328ae17bcb4b51c88ecebcb6ccb28?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+2026 福布斯中国 AI 科技企业 TOP50 发布，中关村科金入选。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/5ba616776e43fe8c9a3e25a491f51ecf7392517e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美国 API 原油库存大降 911 万桶，远超预期，油价短期获支撑。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a4df392742acec55862e6be8d28b9663eb8775c4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+氢能储运技术突破，液氢运输成本下降，商业化应用临近。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c331f7315536e4919565c7a6ff26fd80a90055db?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+网易云音乐 AI 推荐、歌单生成、翻唱，用户活跃度提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/696d4f803992d4b963f3a91e5f112f47ba716280?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+中兴微 5G 基带芯片商用，通信 + AI 融合，工业、车载场景拓展。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/f1e48a9d1a66a84a8a350b654998a372b087062c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+虚拟直播间搭建门槛降低，实体商家轻松开启线上直播带货。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0c8e9b01f7d2821da6efb0790b3373a01e93f6e5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+桥梁智能监测系统投用，实时监测桥梁安全消除通行隐患。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/147e66c5dd01bec66dd6cc0904b14d4d20d23db6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美团 AI 调度、骑手优化、商家赋能，效率提升，佣金增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/1cc3d47f12b3c7195695bf249cca5e168ee7997d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+景嘉微 AI 芯片流片成功，图形处理 + AI 融合，军工、信创场景落地。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/854e2094d776297756b372a0012c1c1bcc39e5c5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+OPPO 马里亚纳芯片迭代，影像 + AI 融合，高端手机差异化优势强化。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2d31485085d6d22bebd65d9580bd68088a42e6da?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产大模型加速落地金融、政务，私有化部署市场份额提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/13ef7b12e8e6360cf81ea6ea77343fa5ba80a4d6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+新型电力系统建设提速，特高压、储能、虚拟电厂协同发展。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/353177440ac0ab2161419d5a8a37ebe97bf13864?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+新加坡加码 AI 金融，英伟达设研发中心，金融科技生态完善。36氪
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/916b465f90fee9da2ec54ff34c7d9a58b0f71e27?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+沐曦 MX1 芯片流片成功，对标国际高端 AI 芯片，国产替代加速。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/f4486316aae088a987b465790ba636d51d1729fc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AMD MI300X 芯片商用，1530 亿晶体管、192GB 显存，性价比超 H100。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a312eec322e5955822277dcddb8046a532c8067e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+图文转三维模型技术成熟，设计行业建模效率大幅提升。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0e927636723a4cee22d6e3aca3cceb70b09b1a6f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+壁仞科技 BR100 大算力芯片交付，AI 训练、科学计算场景落地。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d0255c7e9549553592e88a65160a6775f2ce6e24?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+黄仁勋：AI 企业部署最大瓶颈是存储，需求增速远超供给。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ced97225e5a94613e78621f8292e6a78dffb6df6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美联储加息预期升温，10 年期美债收益率升至 4.677%，创 1 年半新高。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/aaccca3f84fda7bef2f17e86bb42e6e0e23571b7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+长电科技 AI 芯片封装技术升级，良率提升、性能优化，订单增长。
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/21cdb857f979072418139e88a15c4c278ca681ea?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI芯片算力突破，多场景训练平台正式投入应用
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/5d236ba4f6809e77908307be7811d61cc4674702?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器需求激增，行业供应链迎来新一轮扩产周期
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/82c2b2afc4bc29bf6e22cb03e70589ee1d7d2f0d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+英伟达高层：未来AI竞争核心，将从算力转向存储效率
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4b5513be0585c569eb04dd079759e3652958dde5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球数据中心扩建加速，高带宽存储成为行业焦点
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a089d1bbb1235ea2c811950a97cd4cba91fb44bc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美债收益率持续攀升，全球科技板块承压明显
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/6fbdc7a0d0862a99de377c47cf242a1792eb02fc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美联储政策预期变化，资金流向重新影响科技市场
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/681061488b6c6a75d3fcce15ab5607b2bdc1dfba?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI芯片封装技术持续升级，先进制程带动行业增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c596bfdcf8c2f1bf4da28377f9b942daeaeba109?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产先进封装企业扩产提速，高性能芯片订单增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/590832f1e9bdbf78456f2962629045efbd2d26ce?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+人工智能训练需求爆发，液冷服务器市场快速升温
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0e45a1313774deba568549a992187b5d056f6181?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI大模型推动高端GPU需求增长，供应链景气度提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d3762da4bc8f46325f865c513814f447041f0b9d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球半导体行业回暖，高性能计算市场热度上升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/1f875f233583688d33d919304bbb9ca26145ae85?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+边缘AI设备需求扩大，国产算力芯片迎来新机遇
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/22f563c57dab90406af42a6ddec8fd858e7402f7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI算力基础设施持续建设，数据中心投资规模扩大
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d22eeabff397e5610a73cda0bea34989c021adf9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能存储价格上涨，AI训练成本结构正在变化
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/e0c523e19c37fb870e28ab0530883df73a8ec231?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体封装技术进入新阶段，Chiplet方案热度提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b5ac6bc838d75111da7d02786bbfe942d4557d9a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理市场增长迅速，企业级算力部署需求增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/f6786935f0df20555b9b6a3267d26190512d7dcc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU厂商持续推进生态建设，多行业开始适配应用
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/37a742b142fdc8ff6eb469de565c743505afe022?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+海外资本关注AI硬件赛道，高端芯片产业链热度攀升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/db0a8bc61da218ca22936380ba40979629cb3754?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+先进封装与HBM需求同步增长，产业链企业加速布局
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/54a21be99d84b0d8f3bfcc19ce78ea7db529f7d5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI产业链进入规模化阶段，服务器与芯片需求齐增
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4dcc7f69e8fafcc10ba6a9194282efe6ea75c0e3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+大模型训练规模持续扩大，企业开始重视算力成本优化
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/7ab9ac6728f3c993fd48ecd1a44bf9267b4df5fa?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储芯片市场迎来反弹，AI需求成为核心驱动力
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/fdd6feaaf1b14c603389b2d10cb396c1caa89f72?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI芯片良率提升明显，高端封装技术进入加速落地期
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/3162138737a6a826da46fe522dd4e1f3a238da7a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球科技企业加码AI基础设施，算力投资持续增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/54cca071091e574a840adca988b5c58af73a91c6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能计算需求升温，国产半导体产业链迎来窗口期
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/e029a16dfa625d6a3de0def9572846fdc6809ca0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI算力需求持续攀升，高性能芯片市场热度不减
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/916c78d1ad93783de066deef5073d727acee25d1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU加速突破，多行业开始布局智能计算平台
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/f2764f9bfefa7c6b56495e14929c89384dc166e9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心扩建潮开启，液冷技术需求快速增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/87f6cd9350d162444492f6fba53309af78f796d2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练规模扩大，存储带宽成为核心竞争点
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b829dc53b603981a8c4c99926bcb6b669e8960de?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体先进封装升级，产业链企业订单明显增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9f656be84e173202323b28632c5ad04b03469723?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球AI服务器市场增长，高端硬件需求持续释放
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/64fbeea4c32d696b33113a00533f11c126932c95?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI芯片生态完善，企业级应用场景不断增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c48e8fb6baed0aa61bb6363daf4a2eb338b7d08b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能计算市场升温，科技企业加速基础设施建设
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/90b67bb14331f2df372cc35976983e21e69c9d94?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI模型参数规模扩大，算力与存储需求同步增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b3b409324e1d7be4e5e7e1d0b56527bd6320ff4f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+芯片封装技术迭代提速，良率优化带动产能提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/36de0afff40b8af5c41800d41c535538f5ba7107?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技巨头加码AI投资，数据中心建设进入新阶段
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/164bbf35fa06becc58307a1d50d237b4e87d2323?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理需求爆发，边缘计算市场迎来发展机会
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/fec359a08b801318397961ba20caac4292eb7319?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽存储热度攀升，行业供需关系持续紧张
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/bab56f7853ca496acfe18fae37e2b59493091482?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产算力平台升级，AI训练效率进一步提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/095d1b19ea25f5901ee355f22c3c9623e2cea5ce?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体行业景气回暖，先进制程需求不断增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9ccfe0945116a6b404116a2c107c2379ebbdccc5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球资本聚焦AI硬件，芯片产业链持续受关注
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/604bb704608e56ccec94fef3a590bb32f93ef2f2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器订单增长，高性能GPU市场供给偏紧
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/dc44b31db3bff07a904fbbb7380e5689427099a8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+大模型快速发展，企业加速部署智能计算系统
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/7165685d62a6f179cab1ef6e8692f1deab2cf1cd?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科学计算需求增加，高端芯片市场持续扩容
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9b1544152204c138605fdbd111dc91a03b57fcdd?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产先进封装技术突破，AI芯片性能进一步优化
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c737ba040149d465cbe161ce0438a9dcec96af48?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI应用规模扩大，云计算企业持续加码投资
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/7dc98f535a81288420de0fe8efb862c28c9441a6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能算力中心建设提速，多地布局AI产业基地
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/76ca6b798533b4d930d063f560985287d0ddc06a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能存储需求提升，HBM市场关注度升温
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/502125cd1bfc2617dbabdb4008a2fbcd4434e6a2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业进入高速发展期，算力基础设施成重点
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/e253a9b5b0bb39cd8a4e4313b333c9bde2be2d33?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+芯片制造与封装协同升级，行业竞争进一步加剧
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/e5b88cfac852cc65c464e9f2ee8e5d7889d05e4f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理芯片市场扩张，边缘设备需求不断增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c0a2142185f803c28375f6787526109810c9bc8d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球科技市场关注AI，相关产业链热度提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2b6ccc975b1cc8b2f09805d86106e51b2379d611?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU厂商持续发力，生态适配逐步完善
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/1c1b8c7ee7927932d74cf5ea8bc0828213c06be4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练成本上涨，企业开始优化资源配置方案
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9ede9a295e0ca608b7d32ca0a71f0529332f32e1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体行业迎来新周期，高性能芯片需求增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/27b2d2ddd143d9cd587c5e14d90b27f7bf559f01?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI产业链加速整合，先进封装技术成为关键
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b36084bd2da1571138fe086fab0a86fa10e173a8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心能耗问题受关注，绿色算力成为趋势
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c41f4355c3c207e441165691cd5bd3490230b7da?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+人工智能应用落地提速，企业级市场快速扩张
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ad999318a4010e03d11bd6e2941c893a2a4d40de?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球AI竞争升级，高端算力设备需求旺盛
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/324d53f5e12b9b34fedb5535fa5c4daf3dfaaa59?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产芯片技术持续突破，多领域实现规模化应用
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/99b70ca453137d3c87e2daed6adad864e54b9486?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储芯片价格回暖，AI需求推动行业增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4471a30034f6884e944d6651e70b5ee7a08cc9ba?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器市场保持高景气，订单量持续增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/154722c034c3841a19966c3332c2c6b7177cedae?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能制造与AI融合，工业计算需求明显提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d72814a35dfcc1742d8f977cb00fa5176ed3520f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+大模型训练持续升级，企业关注算力效率优化
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a842112481cf0016f0ac886bd984e25f1e54c243?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产高性能GPU发布，行业应用生态进一步扩大
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d21a0cda2a301240255a078fc0f5d7e6923ef678?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技企业加快AI布局，智能硬件市场持续升温
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/761a0b90890c0cbe3ace8fd095eb28c86ba5f5ed?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高端芯片供应趋紧，先进封装产能需求增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/93bc74cd8fd1883f894d0f82c887b554b320d0b6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI计算需求暴增，数据中心投资规模扩大
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4ed8528b5ed11f5cd1b0bf320bfb410ca3ddcd32?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体设备市场回暖，产业链订单逐步恢复
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0e9379ce7b76a988697e8f2d06dce48ca9e6ac83?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI应用推动云服务升级，企业加速数字化转型
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/11ae2877a2743c5c3e7dfdd6b1e5a876e240b827?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI芯片加速落地，行业竞争进入新阶段
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/26121a16792dd8014e8a1fc6a0148bf32de88e0a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽存储市场扩张，AI训练需求持续增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0defce7224d116f9eecbf9e10d16eb2f04f99c29?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能计算平台升级，企业算力部署规模扩大
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/410817d695d777db1e58e62fa95fbc0419077997?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业进入规模化阶段，硬件需求持续增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/3ff91b43b8923ea1cb19a3d5dd7147a297d6ea99?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+芯片封装良率优化，高性能产品产能逐步释放
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/e142917b79a9608ffe3b79bcfeebea2218ea53e4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI模型迭代提速，企业加码高端算力采购
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a8df4a6ddd5dcaa9ebd37024e41a865259c6237f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心建设加快，服务器产业链热度提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/abbeff166efee509b65e4a361228c35e108d53be?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产算力生态逐步成熟，行业应用场景增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/bf02dfa1e01bdcbeb8d796bd728072c73d6edad6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练需求快速增长，GPU市场供需持续紧张
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9ae461bcae63796d22dce52a34e319cd240f1b44?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技行业资本活跃，AI硬件赛道持续受关注
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/130baa53e051670386f7a2cc504973f9a53f6b1d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理场景扩大，边缘计算设备需求上升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2e9c7ed8d1671e0ffd8711e16a5913b08ec28acf?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球半导体市场回暖，高性能计算持续升温
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/dad9dcd0168ff256c8eb4dd8f51ef3a95c69daa9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储与算力协同发展，AI基础设施加速升级
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c7082b337a10911c3a3613ab4e60ee34290178a5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产先进制程突破，AI芯片性能持续优化
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/02e3a76866076386f3e4a16b8f83b506e79f5952?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器市场竞争加剧，企业加速新品发布
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9a749d2ae2148507589e7e86ad5e957fa95a81ad?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+大模型训练推动产业升级，算力需求不断攀升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/dcfeb5fb9ae959ac6c2368f4eda395ac62c32ce2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI芯片产业链扩产，先进封装市场热度提高
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/67febd597236c25f07c1efa7cc6979b2621e5dd3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能计算需求增长，高性能存储成行业焦点
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/68112578f16cbe17872ace48a53c032ec2124987?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技企业布局AI云服务，数据中心规模扩大
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2c23b279984da632d0eb7bcc5bbc28990430d758?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU市场升温，行业生态逐步完善
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/93ac66d2a4aefde99320016bea9bc65a3de4a142?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI算力平台升级，训练效率持续提高
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/1c7470f777a99028563d047c24e01467b9dff230?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体产业链恢复增长，高端芯片需求增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/afa62863c7885ac3514a067dc6b3487b49242d5b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理应用扩张，边缘智能设备快速发展
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9e523d3a06299c6918c4c66e7f5321fb966e884a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球科技市场聚焦AI，算力建设持续推进
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d09f5da35d053453613b1c1cd58dea1bab2eab26?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能计算市场扩容，产业链企业订单增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/3faafbd50bc481fc7c85e9f5ef13a54154b1b01c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器需求爆发，液冷系统市场热度上升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d82610d89de80c8966b3bfef6dfd15bac114c546?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产芯片厂商持续发力，行业应用场景扩大
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/72afda90556feb366245431e6ee341ee4f4b6746?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练规模持续扩大，存储瓶颈问题受关注
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4b3da12846a55500169d5975cecf72bc3cea26fb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+芯片封装技术创新，先进工艺推动性能提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/60cd2dbf32174e1d96f627741f2e2333fac0d191?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技企业加速布局AI，智能硬件市场活跃
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/09f8f468aee4d0b479da0e8cf5bc27ca61392bde?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI基础设施投资增长，数据中心需求持续提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/17994fb30db35ae73dcac997e411dba69e80ebd3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽存储市场火热，产业链企业加快扩产
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d74265ecd5ba0b7b3392854113391356e10b2358?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI算力平台升级，多行业开始部署应用
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/430814bbfa84e8c099af1b2875e7e9f60d511b3b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI大模型推动GPU需求，行业景气度持续提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/38b340fd80c5334b1bc9c39fe06c76191c3ce6dc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体先进封装需求增长，订单规模明显扩大
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/6f682e1ba52db907f5ff7b8a69f72f44fb2557ca?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业发展提速，企业关注算力成本优化
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d7f2a0355454a01dcfc047ee3068029b2ba7ba3f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心建设热度上升，绿色节能技术受关注
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2c696486bc44dcc626465fac6ddb0b39b3a1ff10?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练与推理市场同步增长，硬件需求旺盛
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0920ec435f3776e5d718e0561873cb8945a1cdf2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU生态建设提速，应用适配持续推进
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/65f6567ed80b4e666e7b8977dc60f63fd2485b3d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技企业扩大AI投资，高端芯片市场热度不减
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9d4c09dfec24aa6020344bac4aaed5df1cb0fe4a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储芯片价格回升，AI需求成为增长动力
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/e401bcc3ea7a80df5a1a0c79a1c7d4f600238bfa?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI产业链进入扩张阶段，服务器需求快速增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/073b8555aca92cd22179a3e35aa3a0a0c8fb91e9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能算力需求增长，国产芯片迎来发展机遇
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/64086aa4c46d8ef02ff21f406ca7aa582d6f2e2d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体市场逐步复苏，AI相关产业表现亮眼
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/79029a0a89d02d82c73fe6e9c4c037a1adceb70e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理芯片需求提升，边缘设备市场持续扩大
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b74588ea075b60921fe88dd8b14a942c414d922b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球数据中心投资增长，高端硬件市场升温
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c8aa9b6ff50a8221a1798eeed91b9e8f00ea2b97?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产先进封装技术升级，AI芯片性能优化明显
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/f772f6c5a06cae62150a0e9a7ba25ab8d5f08d63?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI模型规模持续扩大，企业加快算力部署
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/260eaffdc5accd5061b20db4256784dc17538fa5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技行业关注AI存储，带宽需求持续增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2c4abe2b02b05d82f2835e2c870e39d514f06914?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心液冷方案普及，节能需求推动市场发展
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/88e7ed710cfabf9c44bf0185a2628586573d377d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器产业链升温，高性能GPU供给紧张
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/fdb20c636d57c7affec78da98703ad6295a27ace?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产算力芯片进入落地阶段，多领域开始应用
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d5b13c441489edef19f9f34c2f66baa3bf708a36?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业资本热度提升，硬件赛道持续活跃
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/f1bc9f9fbebd77f72cbc96fbf3dbfb4e648d6cc2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+芯片良率提升明显，先进封装订单快速增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/314334143f9f3dc1c10f30f083650b9a59dd4575?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI基础设施建设加快，行业进入新发展周期
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/5bf17e271d2f452c8dd7d3d262f73b4a242f7631?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能算力需求持续增加，企业加速硬件升级
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/8b8a7e90f4376fe41ad9e9d23a432bc3c4572d6e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI芯片市场竞争升温，国产厂商动作频频
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b1acb8fd56fcc636e02e20f2f962ded11a78ec98?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心扩容提速，高性能服务器需求增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/19d722161e6957e0775f87171ba85a0ab4e8acfc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI模型训练复杂度提升，存储效率成为关键
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/cf4abef7ce0cf041869fc27fe1908e61ecc0f22e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体产业链景气回升，先进封装市场受关注
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/1753597647e140815548b99e5f87c702762ba7fb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能GPU需求扩大，AI行业热度持续上升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/41f05a47229330a73f408e67a98040083d14a025?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI芯片生态完善，软件适配能力提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/3097ddfbbb3cbe46c3123345cc4d19308a14d523?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理应用快速普及，边缘设备市场升温
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/48bb8a6dd5e9f6b00404377dcf0b6ddcb89a9b1d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球科技企业布局AI，算力投资规模扩大
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/64cb941fae8f6a3dfcc45583a0a0c95d94f5dd40?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽内存需求激增，行业供需关系趋紧
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/3b4ca5d9c48989ee880045de2996a80c49887d4a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU产品升级，行业应用覆盖范围扩大
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a29e07ead1b991e4ecbf7ed5a339b93f3cd36e1e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI基础设施建设提速，多地推进算力中心布局
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/3b022e1bf7ad927d2c99f099d389d5ffc75d5e8f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体先进工艺升级，高性能芯片市场增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ad1d6979a2b75bc1144059fb961b697bbb345466?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练效率优化，企业开始重视资源管理
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9d2daa8496f0139491c05a0223f4e4392427f832?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心市场持续扩张，液冷技术加速落地
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9abeb6de79c1d0a22f418f5baa99574b57165038?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技行业加码AI布局，智能计算需求提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/03f6609c992acf44d074367349e656aa417eae0c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产芯片企业扩产，先进封装订单持续增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2d4ea9d370261671b681d41a044b4b7876edf11b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器市场热度攀升，产业链企业受关注
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/990ad6eb719264fd3ec4883421196466c050028b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能计算需求增长，科研领域应用扩大
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4efaa10de1d4d33e8e312b6f0193c06c5de57109?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理芯片升级，终端设备智能化加速
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ddba7bf26dad9603590dc8d9d34d0460e7ed8470?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储与算力协同发展，AI行业进入新阶段
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/f1bab4fca67f36f0e40ad29bff4a175871c593e8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体行业回暖，高端芯片需求持续释放
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b3fbe3643a61f244ab47c83e620a862e4ae106c7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练平台升级，企业级市场需求明显增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b7e6a3de0f1fa44d9bf617ba97f7667dc61a3ff3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产先进封装技术突破，芯片性能持续优化
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/37634302d47d3f3d2495cf9b42aa42e2927ab0a7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心建设进入高峰期，服务器市场扩张
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/5ffb9d969c8560ff09d08f63ef5d770b01418957?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业竞争加剧，高性能存储成为焦点
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/3da5c8fabbf353fcce46520bf7f02341fb691bb2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技企业持续投资AI，算力市场保持活跃
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0d4a6f99920d716467a4619d8ee5611a480a4bdb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU厂商生态建设提速，行业适配加强
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4a1b73c8e1dbe8d3035f211290624d991809073e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器订单增长明显，高端硬件需求旺盛
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a235d9516b543ef3f6797f38933495346e8ba7e5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能计算市场升温，国产芯片迎来发展机会
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b9bd82a9098bb26650712e39d6e6c54781a7333d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练需求增加，数据中心带宽压力提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/29af732faeceb4d04aab59bd11973e68685f63fe?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+芯片封装良率优化，先进工艺推动行业升级
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0c4ade96a2fd1cf5cd28d0b231dc049760fd85b8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球AI市场快速发展，硬件需求持续增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c09dcd672f1dfa490defeeed9995b31b258fa17b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能存储市场扩张，AI应用推动行业回暖
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/afbdb61331951a3f7c93bbc99b9d5431989d6fac?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产算力芯片持续迭代，多场景开始落地
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c88a7b40e2ee222486c1edd4e1434c3ceac21765?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理需求扩大，边缘计算行业迎来新机遇
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/35fc4dcabd4a548feaf569d6fa306aef74aea318?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心投资增加，绿色节能方案受重视
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/759ea75507e5a390308a83d3d8ef959fe489988c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体行业景气提升，高性能GPU需求增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/061b8f33dbe797053c34b8606204a336a330cacd?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI大模型推动产业升级，企业加速硬件采购
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2fe74eae4ae656f7e649f7b1edf2bf74fb2335fb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI生态逐步完善，行业应用持续扩展
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b1f9313a21d7f415c177a1b08ccc9a2aa65c48e0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技企业布局高端算力，AI市场热度不减
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4577c993a04d11a5bc12e0a021e5a8bec6375c9d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽存储需求旺盛，相关产业链持续受益
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/f266f252867a408c6123fe055fa12c7ad339f624?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器市场保持高景气，订单规模扩大
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/7eb1d5310844f45450ffc852ad9c908423485eec?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+芯片封装技术创新，产业链协同效应增强
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c436a79128ee16188e4f64510419f4be840dd24f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球数据中心建设加速，高性能设备需求提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/caf06560d61b41c15bc76e4d5922ec0961f7c12f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业应用深入发展，算力基础设施成重点
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/cd00c46438e71846dd878bbce6d6caf3a620db25?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU市场热度提升，企业级应用逐步增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/3426c7dfeb978c6a1724ffe112844c083bc15075?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储芯片市场回暖，AI训练需求推动增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/beaca68e04269dc1f3eb0121e205d9b0cff87520?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI算力平台升级，数据处理效率持续提高
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/eb61d1c086e99b89ca9addfd0677741b9884e3a0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体先进封装市场扩容，企业订单增长明显
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/654e7733c475cf2c5e237cc44842f29dfa904c36?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理市场快速扩张，终端智能化趋势明显
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ed83eacfb7caf2422f47fc0fe226ee4ef0d5a57f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心液冷技术普及，节能需求持续增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d4caf6f8aadd3a7d1f199b4440e887ecda4ee8af?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产芯片性能优化，行业竞争进入新阶段
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2fb3f92903c37a7528010ca11d6993542f213590?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器需求激增，产业链企业加快扩产
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/771e8cbf38807ab21e0a47aed881365db4bdf676?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能计算市场发展迅速，科研需求持续增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/7a8b959707ba1b8ced2742695743d0dc39bef9b5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练规模扩大，企业重视存储系统升级
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/03cd0d70deabbcd786d5d823e631d94a99173414?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体产业链恢复活力，高端设备需求增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d0e815fafc567d7f0c932757440e32a2e1a65ddb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI芯片进入应用阶段，多行业开始尝试部署
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/b45d5ca4b1be560d42875e73dd31cf7778ee9553?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业资本关注度提升，硬件赛道持续活跃
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ff03cd14c0e9602d7d88bd2c0cd963a2bc6f868c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽内存价格上涨，市场供需关系紧张
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/22d8e7994f2a4beaf694f5502347644a40544a6c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能算力中心建设推进，AI产业发展加速
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/002fc21aa3d784ba4baaf63ff27e72ba28f73fc7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU适配能力提升，软件生态逐渐成熟
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/51bf473a35da5c74b3c9e2a84e497fb437a67ec0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器产业链景气提升，市场需求持续释放
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/6bdde37a22a4d3a4eb91240a1b30a26c1c06f502?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心升级提速，高性能硬件需求扩大
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/972399f83d976865feaa84b23da6ab85d3e7c7c2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练与推理同步增长，芯片市场持续升温
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/26bba07bde5d12300ad6414583397eccaee51b0b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体先进工艺突破，高性能芯片竞争加剧
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4d04d7c16bde53612d7367d9e9e15389e48116aa?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产算力平台优化，多领域AI应用开始落地
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/45b3a978afa9a3f96fc1742bb49b6b4b3ed47251?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业进入高速发展期，硬件需求持续扩大
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/1806c0aa4e7a5232d8d62140822f8607444c8ab0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技市场关注AI存储，带宽问题成为热点
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/51f663b48f34214fb3b8a8153d929b8818b3960d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能GPU供需偏紧，企业加快新品布局
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/915ebacada440e7b4cc9d011eb038a38ed3bed73?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心建设热度持续，绿色算力受关注
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0a9732f6c0ea7fd58bcdfe75a986007c1a895f72?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产先进封装企业扩产，订单规模持续增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9f640aa6d83c29b6f1b085674ff38ef6a885733e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理需求提升，边缘智能设备市场升温
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/69d3937a0b95eda17b2fcee8f2e926cc9e2e2408?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI模型参数增长，企业加速算力资源部署
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/651b88fd47501f20bc4d122d617a3c0e97464ad8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球科技行业聚焦AI，芯片产业链持续活跃
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/091b61bc1cd67dd076052af33e92868ba1f11476?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体市场逐步复苏，高性能计算需求回暖
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/847be0155c434665c48a4a39f7db5079db87edc1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI生态建设加快，行业应用场景不断增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c838b419cff28f65372314d024a172e6aac6d065?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心市场扩张，高端服务器需求明显增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/23459ce60e4a9d6aee86d1f96539dc23e12f53be?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI基础设施投资增加，行业进入新发展阶段
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a95225841bac76b69dc2a255374e4c4ba45ad391?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽存储热度上升，产业链企业积极布局
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/f7c3ca9846545107ea1553f2ca1d063d3bddcd00?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI芯片良率提升，先进封装推动性能优化
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/91f7a05c7dc20f135d1dbe7465e83ffa04c92e73?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU企业持续创新，行业竞争逐步升级
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ac354efecf11e04013d8942e6cb7cc7e9e359db6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练需求持续增加，算力市场保持高景气
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/f50f7173cfee00d4be5f6c29d25990f4b496730b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体先进封装需求扩大，企业订单稳步增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/402a61d449cef5a1e8267e50e1b3520426bc0f4d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心升级潮开启，液冷市场需求上升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ae3b31d8340eafce17bf2f2b3c0a69ebf29df6a0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理市场扩张，终端设备智能化趋势明显
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/26edb46351e2e079bcb9a5c23cb2bf76cd4ff53e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产高性能芯片突破，行业关注度持续提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9861653b74acace740c89d0372df89d561ff1551?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器市场保持活跃，高端硬件需求增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/8a7884f6031a20dde577637afcc77e24699c7dd4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球AI竞争加剧，企业持续扩大算力投资
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/483a58e933ecdbbb518c7085cccbca5d440586cd?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储市场需求回暖，AI应用推动行业增长
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2646dcad5ddd87b2f11311731e8a727d7a09fe13?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI芯片持续升级，多行业应用开始深化
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/52d617f187cf53e20be2df171f3bcb5426bdbf5f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技企业布局智能算力，数据中心规模扩大
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ded21b640a57cc19993adf916bc07d89c37719cc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练效率优化，企业重视资源协同管理
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/5aa041f57d28cdfed755c13f3abc355cd8d4cf3d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体行业回暖，高性能芯片市场需求增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/eba5600e2fef79d63d8fe14ddd2f1fcaf9043c0d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心建设提速，服务器产业链景气提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/1fdfb2550fbad947191e8ec1cd1e54a9d981a0cd?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI模型快速迭代，硬件市场迎来新增长点
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/79d6e351096a1903be633453da7c2472a749c508?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产先进工艺发展加快，高端芯片需求旺盛
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/ba169c8a4775365591cd7863ba3bc068d9398b31?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理芯片需求扩大，边缘计算市场升温
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/c9d4c0981158b418f015093578390a6be5885df1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球数据中心投资增加，高性能存储受关注
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/6dc6cb09562d64240c0fcaef7fe5f3627f6eef3d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业进入新阶段，算力与存储协同升级
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/9c6a535a2148a3d0fe0edd9116ec680f6788a5e4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU产业链完善，AI应用场景持续扩展
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/e16d6857f59cbfecb07bd38a73168a7921f1d9e1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练规模提升，高性能服务器需求增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/04cb22c2b228d3918f4205ea1ea89c426546a417?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体先进封装技术升级，行业竞争持续加剧
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/d9d4250113fc69cc8fb4b54adce39b54e7006fab?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心扩容加快，绿色节能方案受重视
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a786eabdd58d27cc0114ff9f8362f4bf1a8315ef?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理需求增长，智能终端市场持续活跃
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/cde20ffff1dc52dab9542102e9d8a0f4438aeac7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽内存市场火热，产业链企业加速扩产
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/032330192bfb0b2edffbc04976377de35961a143?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI芯片性能优化，多行业部署进程加快
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/5ab31ab9ba8b5331bda6e8f6903b8f56db07619e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI基础设施建设升温，数据中心投资持续增加
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/7dfdc9ffbd31a3a257f29787bd048f694e4fb31a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体行业景气回暖，高性能GPU需求旺盛
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/0c9bc16e4c358a1fdee5bcc09a214c88524e2777?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器市场扩张，产业链企业订单增长明显
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/4fccfabe770e19d36bc34f0d8b435c6993aebfe2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心液冷技术普及，节能需求不断提升
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/72ad52f21dee1c589313fa2af1cda9cb772471a0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练成本上涨，企业关注资源优化方案
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/a531318a3cda3ee3511c2ff0d49f63b4a11b41c8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产算力平台持续升级，行业生态逐渐成熟
+| 来源：https://github.com/bgaeeklsdt/oiidf/commit/2268bb55fad6cabf41d4981a818817fc04dee77e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球科技市场聚焦AI，硬件投资规模扩大
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E7%A7%91%E6%99%AE%E8%BD%AC%E5%BC%B1%EF%BC%9A%E7%99%BC%E5%A4%A9%E5%A0%82%E8%B4%AD%E5%BD%A9%E5%A4%A7%E5%8E%85-%E8%AF%9A%E7%9D%BF%E8%B4%A2%E7%BB%8F.md
+
+AI行业发展迅速，高性能计算需求持续增长
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E5%AE%98%E6%96%B9%E7%B2%BE%E7%A5%9E%EF%BC%9A%E7%99%BC%E5%A4%A9%E5%A0%82%E8%B4%AD%E5%BD%A9%E5%AE%98%E6%96%B9-%E9%93%B6%E4%BC%98%E8%B4%A2%E7%BB%8F.md
+
+存储芯片价格回升，AI应用推动行业回暖
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E6%9D%83%E5%A8%81%E7%9B%98%E7%82%B9%EF%BC%9A%E7%99%BC%E5%A4%A9%E5%A0%82%E8%B4%AD%E5%BD%A9%E4%B8%AD%E5%BF%83-%E5%BF%85%E5%BA%94%E6%8E%A2%E6%BA%90.md
+
+国产GPU厂商持续发力，生态建设不断推进
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E5%85%A8%E6%99%AF%E7%9B%98%E7%82%B9%EF%BC%9A%E7%99%BC%E5%A4%A9%E5%A0%82%E5%AE%98%E6%96%B9%E5%A4%A7%E5%8E%85-%E7%95%8C%E9%9D%A2%E5%AE%B6%E5%B1%85.md
+
+AI服务器需求增加，高端芯片市场持续升温
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E5%AE%98%E6%96%B9%E4%BD%BF%E5%91%BD%EF%BC%9A%E7%99%BC%E5%A4%A9%E5%A0%82%E5%AE%98%E6%96%B9%E5%B9%B3%E5%8F%B0-%E4%BA%AC%E4%B8%9C%E5%80%BA%E5%B8%82.md
+
+半导体产业链恢复增长，先进工艺需求扩大
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E7%A7%91%E6%99%AE%E6%97%A5%E5%BF%97%EF%BC%9A%E7%99%BC%E5%A4%A9%E5%A0%82%E7%94%A8%E6%88%B7%E6%B3%A8%E5%86%8C-36%E6%B0%AA%E4%BF%A1%E8%B4%B7.md
+
+AI推理应用落地提速，边缘设备市场扩张
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%EF%BC%9A%E7%99%BC%E5%A4%A9%E5%A0%82%E6%B3%A8%E5%86%8C%E5%B9%B3%E5%8F%B0-%E5%BE%97%E7%89%A9%E9%80%9A%E4%BF%A1.md
+
+数据中心建设热度不减，高性能硬件受关注
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E7%AC%AC%E4%B8%80%E5%91%A8%E5%88%8A%EF%BC%9A%E7%99%BC%E5%A4%A9%E5%A0%82%E6%B3%A8%E5%86%8C%E5%85%A5%E5%8F%A3-360%E4%BF%9D%E9%99%A9.md
+
+AI模型训练复杂度提升，存储效率成核心问题
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E5%AE%98%E6%96%B9%E8%AE%B2%E8%A7%A3%EF%BC%9A%E9%A3%9E%E5%A4%A9%E8%B5%9B%E8%BD%A6%E5%BE%AE%E4%BF%A1%E7%BE%A4-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%99%9A%E6%8A%A5.md
+
+国产先进封装企业扩产，订单规模持续增长
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E7%B2%BE%E9%80%89%E4%B8%93%E6%A0%8F%EF%BC%9A%E9%A3%9E%E8%89%874%E7%A0%81%E5%80%8D%E6%8A%95%E8%A1%A8-%E4%BA%AC%E4%B8%9C%E6%94%BF%E7%AD%96.md
+
+AI算力市场保持活跃，行业竞争进入新阶段
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E7%A7%91%E6%99%AE%E6%A6%9C%E5%8D%95%EF%BC%9A%E9%A3%9E%E6%89%AC%E5%BD%A9%E7%A5%A8APP-%E6%96%B0%E6%B5%AA%E5%AE%B6%E7%94%B5.md
+
+高性能计算需求扩大，科研市场快速发展
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E5%88%86%E6%9E%90%E6%9C%97%E7%AB%AF%EF%BC%9A%E5%88%86%E5%88%86pk%E6%8B%BE%E8%AE%A1%E5%88%92-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%A5%BC%E5%B8%82.md
+
+AI训练与推理同步增长，GPU市场供需趋紧
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E8%BF%9B%E9%98%B6%E8%AE%B2%E8%A7%A3%EF%BC%9A%E5%88%86%E5%88%86%E5%BD%A9%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD-%E6%90%9C%E7%8B%90%E6%9B%B2%E8%89%BA.md
+
+半导体行业回暖，AI相关产业链持续受益
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E4%B8%93%E9%A2%98%E5%BF%AB%E6%8A%A5%EF%BC%9A%E5%88%86%E5%88%86%E5%BD%A9%E6%89%93%E6%B3%95%E5%85%AC%E5%BC%8F-%E5%8C%97%E6%B1%87%E8%B4%A2%E7%BB%8F.md
+
+国产AI芯片生态升级，软件适配能力增强
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E7%A7%91%E6%99%AE%E6%8C%87%E6%A0%87%EF%BC%9A%E5%88%86%E5%88%86%E5%BD%A9%E5%A4%A7%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%95%8C%E9%9D%A2%E5%88%B8%E5%95%86.md
+
+数据中心投资规模扩大，绿色算力趋势明显
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E9%80%9A%E4%BF%97%E7%A7%91%E6%99%AE%EF%BC%9A%E5%88%86%E5%88%86%E5%BD%A9%E8%B5%B0%E5%8A%BF%E6%94%BB%E7%95%A5-%E5%98%89%E8%BE%BE%E8%B4%A2%E7%BB%8F.md
+
+AI服务器市场热度提升，产业链企业积极布局
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E5%AE%98%E6%96%B9%E8%A6%81%E8%A7%88%EF%BC%9A%E5%88%86%E5%88%86%E5%BF%AB3%E4%BA%A4%E6%B5%81%E7%BE%A4-%E7%95%8C%E9%9D%A2%E5%9B%BD%E9%99%85.md
+
+高带宽存储需求增长，行业供给压力持续存在
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E5%85%A8%E8%A7%88%EF%BC%9A%E5%88%86%E5%88%86%E6%97%B6%E5%BD%A9app-%E6%8A%96%E9%9F%B3%E9%94%90%E8%AF%84.md
+
+AI推理芯片升级，智能设备应用场景增加
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E7%A7%91%E6%99%AE%E8%A7%A3%E5%AF%86%EF%BC%9A%E9%A3%8E%E9%87%87app%E8%B5%9A%E9%92%B1-%E9%B8%BF%E9%99%85%E8%B4%A2%E7%BB%8F.md
+
+国产GPU性能优化，多领域开始规模化部署
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E7%A7%91%E6%99%AE%E6%97%B6%E6%9C%BA%EF%BC%9A%E9%A3%8E%E5%BD%A9%E7%BD%91%E5%BD%A9%E7%A5%A8%E6%9F%A5%E8%AF%A2-%E7%9F%A5%E4%B9%8E%E7%BE%8E%E9%A3%9F.md
+
+全球科技企业布局AI，算力基础设施持续建设
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E7%A7%92%E6%87%82%E4%B8%93%E6%8A%A5%EF%BC%9A%E5%87%A4%E5%87%B0%E2%85%A3%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%8E%85-%E8%84%89%E8%84%89%E5%BD%A9%E7%A5%A8.md
+
+AI训练效率提升，企业开始优化硬件架构
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E5%88%9B%E6%96%B0%E4%B8%93%E6%A0%8F%EF%BC%9A%E5%87%A4%E5%87%B0%E2%85%B3%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%8E%85-36%E6%B0%AA%E5%BD%B1%E8%A7%86.md
+
+半导体先进工艺升级，高端芯片市场热度攀升
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E8%87%BB%E5%93%81%EF%BC%9A%E5%87%A4%E5%87%B0%E2%85%B3%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%BF%83-%E5%BE%97%E7%89%A9%E7%A4%BE%E5%8C%BA.md
+
+数据中心液冷需求增加，节能方案持续推广
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E6%99%BA%E9%80%89%EF%BC%9A%E5%87%A4%E5%87%B0%E2%85%A3%E5%A4%A7%E5%8E%85%E7%99%BB%E5%BD%95-%E5%A4%AE%E8%A7%86%E7%99%BE%E7%A7%91.md
+
+AI行业进入扩张周期，硬件市场需求旺盛
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E4%BB%8A%E6%97%A5%E7%83%AD%E6%8E%A8%EF%BC%9A%E5%87%A4%E5%87%B0vaapp-%E7%99%BE%E5%BA%A6%E6%B6%88%E8%B4%B9.md
+
+国产AI平台持续完善，多行业应用逐步深化
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E7%8E%A9%E5%AE%B6%E8%A7%A3%E8%AF%BB%EF%BC%9A%E5%87%A4%E5%87%B0VIAPP-%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%A4%BE%E5%8C%BA.md
+
+高性能存储市场扩张，AI训练需求快速增长
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E5%AE%9E%E6%93%8D%E6%94%BB%E7%95%A5%EF%BC%9A%E5%87%A4%E5%87%B0VIP%E5%A4%A7%E5%8E%85-%E6%8A%95%E8%B5%84%E7%83%AD%E7%82%B9.md
+
+AI服务器订单持续增加，产业链景气度提升
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E7%AC%AC%E4%B8%80%E4%B8%93%E6%A0%8F%EF%BC%9A%E5%87%A4%E5%87%B0vip%E5%88%86%E4%BA%AB-%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%96%87%E5%BA%93.md
+
+半导体企业加速扩产，高端封装需求增长
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E5%9C%B0%E8%A7%82%EF%BC%9A%E5%87%A4%E5%87%B0VIP%E5%AE%98%E6%96%B9-%E7%95%8C%E9%9D%A2%E7%90%86%E8%B4%A2.md
+
+AI推理市场升温，边缘智能设备需求扩大
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E7%AC%AC%E4%B8%80%E6%8E%A2%E6%9E%90%EF%BC%9A%E5%87%A4%E5%87%B0vip%E5%AE%98%E7%BD%91-%E4%BC%98%E9%85%B7%E4%B8%93%E6%A0%8F.md
+
+数据中心升级趋势明显，高性能算力成核心
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E5%AE%98%E6%96%B9%E6%B3%95%E8%A7%84%EF%BC%9A%E5%87%A4%E5%87%B0VIP%E5%AE%A2%E6%9C%8D-%E8%99%8E%E6%89%91%E5%AE%A0%E7%89%A9.md
+
+国产GPU生态建设提速，企业级应用不断增加
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E5%AE%98%E6%96%B9%E6%B5%8B%E8%AF%84%EF%BC%9A%E5%87%A4%E5%87%B0VIP%E5%B9%B3%E5%8F%B0-%E8%99%8E%E5%97%85%E5%9C%88%E5%AD%90.md
+
+AI产业链持续发展，算力与存储需求同步提升
+| 来源：https://github.com/vlo16bkwhc/ldqz/blob/main/2026%E7%AC%AC%E4%B8%80%E4%B8%BB%E7%BA%BF%EF%BC%9A%E5%87%A4%E5%87%B0vip%E8%BD%AF%E4%BB%B6-%E4%B8%AD%E6%98%9F%E9%9D%92%E5%B9%B4.md
